@@ -1,0 +1,42 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: rgba(97, 22, 22, 0.856);
+    color:#efefef;
+    padding: 3rem 2rem;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    text-align: center;
+}
+
+header h1 {
+    font-size:  4rem;
+    text-align: center;
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(97, 95, 94);
+    width: 100%;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+svg {
+    border: solid 4px white;
+}
+
+.response {
+    text-align: start;
+    border: solid gray 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
